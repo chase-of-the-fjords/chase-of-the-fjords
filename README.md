@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Chase Peterson, a full-stack software developer from San Diego, CA! I'll be updating this soon with all my skills, as well as the projects and skills I'm currently working on.
+
 <!--
 **chase-of-the-fjords/chase-of-the-fjords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
